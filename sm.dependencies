@@ -1,0 +1,26 @@
+[
+  {
+    "remote": "suda",
+    "revision": "cm-13.0",
+    "repository": "LineageOS/android_device_cyanogen_msm8916-common",
+    "target_path": "device/cyanogen/msm8916-common"
+  },
+  {
+    "remote": "suda",
+    "revision": "cm-13.0",
+    "repository": "qiuyouming/android_kernel_wingtech_msm8916",
+    "target_path": "kernel/wingtech/msm8916"
+  },
+{
+    "remote": "suda",
+    "revision": "cm-13.0",
+    "repository": "TheMuppets/proprietary_vendor_wingtech",
+    "target_path": "vendor/wingtech"
+  },
+  {
+    "remote": "suda",
+    "revision": "cm-13.0",
+    "repository": "LineageOS/android_external_stlport",
+    "target_path": "external/stlport"
+  }
+]
